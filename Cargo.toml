@@ -1,9 +1,11 @@
 [package]
 name = "columnar-store"
 version = "0.1.0"
-description = "A Rust library for Columnar Store"
+description = "Columnar Store — Rust implementation with the SuperInstance polyformalism canary wired in."
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/columnar-store"
+repository = "https://github.com/SuperInstance/columnar-store"
 edition = "2021"
+
+keywords = ["columnar-store"]
 
 [dependencies]
